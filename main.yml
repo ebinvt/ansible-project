@@ -1,5 +1,6 @@
 - installing apache
-- installing php support  
+- installing php support 
+- creating php.ini from php.ini.tmpl  
 - apache test page created
 - httpd conf created from template  
 - apache restarted
